@@ -1,1 +1,4 @@
-// Write your code below
+chipMonks = ["ALvin", "Simon", "Theodore"];
+
+console.log(chipMonks);
+
