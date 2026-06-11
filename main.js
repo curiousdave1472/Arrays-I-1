@@ -1,4 +1,4 @@
-chipMonks = ["ALvin", "Simon", "Theodore"];
+chipMonks = ["Alvin", "Simon", "Theodore"];
 
 console.log(chipMonks);
 
